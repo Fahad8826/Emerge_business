@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251632185451",
+    "project_id": "emerge-fa3ce",
+    "storage_bucket": "emerge-fa3ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251632185451:android:3a78191d9db939487f012e",
+        "android_client_info": {
+          "package_name": "com.example.emerge_business"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_es27K21CeVZ639sbL41RIxZUrpK8JnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251632185451:android:10e8dd50ee32ad5e7f012e",
+        "android_client_info": {
+          "package_name": "com.example.emerge_homely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_es27K21CeVZ639sbL41RIxZUrpK8JnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
